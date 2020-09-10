@@ -13,14 +13,15 @@ namespace testingapp
         {
             //OldMethod();
             //newMethod();
-            VeleMethod();
-            //bestMethodTillFound();
+            //VeleMethod();
+            bestMethodTillFound();
 
         }
         private static void bestMethodTillFound()
         {
             FinalCodeToWriteStackOverflow finalCodeToWriteStackOverflow = new FinalCodeToWriteStackOverflow();
             finalCodeToWriteStackOverflow.encryptToken();
+            //finalCodeToWriteStackOverflow.NewMoreSecureMethodEncrypt();
 
         }
         private static void VeleMethod()
